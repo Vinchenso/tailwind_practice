@@ -1,11 +1,5 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <title>Tailwind Starter Template</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  </head>
-  <body class='font-source-sans font-normal leading-normal'>
+<template>
+  <div class='font-source-sans font-normal leading-normal'>
 
     <div class="border-b border-grey-light p-4 ">
       <div class="bg-red-lightest border border-red-light text-red-dark px-4 py-3 rounded relative" role='alert'>
@@ -56,5 +50,11 @@
         </div>
       </div>
     </div>
-  </body>
-</html>
+  </div>
+</template>
+
+<script>
+</script>
+
+<style src='./assets/main.css'>
+</style>
