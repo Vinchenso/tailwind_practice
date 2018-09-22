@@ -31,3 +31,14 @@ npm run prod
 
 After that you will have a ready to deploy bundle at `/dist`
 
+# Completed Tasks 
+
+- [x] Alerts 
+- [x] Cards 
+- [x] Grids - n/a 
+- [ ] Buttons 
+- [ ] Navigation 
+- [ ] Forms
+
+
+
