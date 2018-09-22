@@ -1,6 +1,7 @@
-# Tailwind CSS Webpack Starter Project
 
-This is an example of a super simple Webpack setup for using [Tailwind CSS](https://tailwindcss.com).
+
+
+# Teaching myself how to use Tailwind CSS
 
 To get started, clone the project and install the dependencies:
 
@@ -30,6 +31,3 @@ npm run prod
 
 After that you will have a ready to deploy bundle at `/dist`
 
-## Contributing
-
-Have a lot of experience with Webpack and suggestions on how we could improve this starter template? We'd love a PR!
