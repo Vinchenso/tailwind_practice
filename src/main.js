@@ -1,8 +1,19 @@
 import Vue from "vue";
-// import App from "./App.vue";
-import WPusher from "./components/wpusher";
+import App from "./App.vue";
+import VueRouter from "vue-router";
+import { routes } from "./routes";
+
 Vue.config.productionTip = false;
 
+Vue.use(VueRouter);
+
+const router = new VueRouter({
+  routes,
+  mode: "history"
+});
+
 new Vue({
-  render: h => h(WPusher)
-}).$mount("#app");
+  el: "#app",
+  router,
+  render: h => h(App)
+});
