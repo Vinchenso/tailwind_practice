@@ -22,6 +22,21 @@
  */
 @tailwind components;
 
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+.wp-font {
+ font-family: 'Lato' 
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+
+
+
 /**
  * Here you would add any of your custom component classes; stuff that you'd
  * want loaded *before* the utilities so that the utilities could still
@@ -62,3 +77,4 @@
  * @import "utilities/background-patterns";
  * @import "utilities/skew-transforms";
  */
+

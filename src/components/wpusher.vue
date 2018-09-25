@@ -1,2 +1,2 @@
 <template src="./wpusher.pug"></template>
-<script src="../assets/main.css"></script>
+<style src='../assets/main.css'></style>
