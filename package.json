@@ -11,6 +11,7 @@
     "pug": "^2.0.3",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
+    "v-hotkey": "^0.2.3",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1"
   },
